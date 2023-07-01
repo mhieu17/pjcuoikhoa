@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+body {
+    background-color: #162938
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto-Slab',serif;
+}
+
+.header {
+    background-color: #162938;
+
+}
+
+.slogan {
+    width: 100%;
+}
+
+.open {
+    width: 40px;
+    height: 30px;
+}
+
+
+.mid {
+    background-color: white;
+    height: 880px;
+    
+}
+
+.logo {
+    width: 89px;
+    display: flex;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    color: white;
+    width: 100%;
+
+}
+
+.item{
+    color: white;
+}
+
+button {
+    height: 50px;
+    width: 190px;
+    border-radius: 50px;
+    color: #e84a1b;
+    border: 1px solid #e84a1b;
+    background-color: #162938;
+}
+
+.slogan {
+    color: #d18e00;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 150px;
+    margin-left: 50px;
+
+
+
+}
+
+.uudai {
+    font-family: 'SVN-Helga';
+    font-size: 70px;
+}
+
+.imgsale {
+    height: 250px;
+    padding-left: 130px;
+}
+
+.imgtag {
+    width: 20px;
+    height: 20px;
+
+}
+
+.tag {
+    background-color: black;
+    width: 110px;
+    height: 30px;
+    color: white;
+
+}
+
+
+.company {
+    color: white;
+    padding-left: 200px;
+    padding-top: 60px;
+    font-size: medium;
+    font-family:'Roboto' ;
+}
+
+.icon {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 500px;
+    padding-left: 350px;
+    
+}
+
+.end {
+    display: flex;
+
+}
+
+.tick {
+    display: -webkit-inline-box;
+
+}
+
+.page{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    font-size: 17px;
+    text-decoration: none;
+    
+
+
+}
+
+.sale2 {
+    padding-left: 10px;
+
+    display: inline-block;
+}
+
+.sale1 {
+    padding-left: 10px;
+
+}
+
+.first-slogan {
+    font-weight:bold ;
+    font-size: 23px;
+}
+
+.second-slogan{
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.second {
+    padding-top: 30px;
+    margin-left: 60px;
+}
+
+.footer{
+    height: 250px;
+}
+
+.detail2{
+    display: block;
+    font-style: italic;
+}
+
+.detail1{
+    font-style: italic;
+}
+
+.header{
+    
+    padding-left: 200px;
+}
+
+.menu{
+    margin-right: 70px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.login{
+    margin-top: 10px;
+    margin-right: 100px;
+}
+
+.seclect{
+    border-bottom: 4px solid #e84a1b;
+}
+
+.lorem{
+    font-size: 18px;
+}
+
+.first{
+    width: 1300px;
+    margin-left: 60px;
+}
+
+.se
+
+.Cam{
+    font-weight: bold;
+}
+
+.number{
+    color: black;
+}
+a{
+    text-decoration:none ;
+}
